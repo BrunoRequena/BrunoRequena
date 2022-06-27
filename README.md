@@ -7,12 +7,12 @@
 - 😄 Pronouns: ele/dele
 
 - Link para o projeto que estou trabalhando atualmente: <br>
- Back-end -> https://github.com/Integrare-PI <br>
+ Back-end -> https://github.com/BrunoRequena/Pokedex <br>
  
   
   
 
-- Último projeto concluido: https://github.com/mariisneves/PrevBaby
+- Último projeto concluido: https://github.com/Integrare-PI
 
 ##
   <div align="left">
