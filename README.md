@@ -24,9 +24,9 @@
   <h4 align="left">  
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> - 
    <img align="center" height="30" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png"> -
-   <img align="center" height="30" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
-   <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/css3.png">
-   <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/html-5--v1.png">
+   <img align="center" height="30" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"> -
+   <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/css3.png"> -
+   <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/html-5--v1.png"> -
    <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/javascript--v1.png">
   <h4/>  
     
