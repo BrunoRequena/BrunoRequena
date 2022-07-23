@@ -28,6 +28,7 @@
    <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/css3.png"> -
    <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/html-5--v1.png"> -
    <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/javascript--v1.png">
+   <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/ionic.png">
   <h4/>  
     
 ## 
